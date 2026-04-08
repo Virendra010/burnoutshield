@@ -1,0 +1,31 @@
+# Secrets & Auth
+credentials.json
+token.json
+.env
+burnout_agent/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MCP Toolbox binary
+mcp-toolbox/
+
+# Compiled PDFs & Zips (not needed in repo)
+*.pdf
+*.zip
+
+# Lab reference files
+lab*.txt
